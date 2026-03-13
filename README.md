@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:       </h3>
-<h3>Register Number/Staff Id:           </h3>
+<h3>Name: Rakshaya R     </h3>
+<h3>Register Number/Staff Id: 212224060204          </h3>
 <H3>Aim:</H3>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
@@ -195,9 +195,10 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-##OUTPUT:
+## OUTPUT:
+<img width="473" height="752" alt="Screenshot 2026-03-13 182428" src="https://github.com/user-attachments/assets/760b6912-2cbb-4b45-86d0-060916797eb9" />
+<img width="498" height="647" alt="image" src="https://github.com/user-attachments/assets/3be5787e-2963-43f8-972a-b8242324e9e2" />
 
-![image]
 
 
 
